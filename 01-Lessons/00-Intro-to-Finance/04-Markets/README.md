@@ -11,11 +11,8 @@ In this module, we will discuss some markets for investment securities. In parti
 By the end of this module, you will be able to:
 
 * Identify a few of the largest markets for investment securities (e.g., stocks, currencies, real estate)
-
 * Understand what derivatives are, and how they are sometimes used in practice
-
 * Understand the key risks and business concepts behind both insurance and real estate markets
-
 
 ### Reading: What is a Market?
 
@@ -46,7 +43,6 @@ Forex (FX) markets have three main instruments for exchanges. **Spot** markets a
 When you make a large personal investment in something such as a car, how can you protect that investment against risks? If you get into a major accident, how will you pay back the loan? These are all questions of risk management that fall directly into the realm of insurance. Insurance is a contract that allows the holder to collect a financial sum when a particular event (usually a bad one) occurs. In exchange, the contract holder also agrees to pay the contract issuer a fee on a regular basis, known as a premium. Groups of individuals may come together in order to seek a larger policy, which simultaneously lowers the risk for the insurer and thus lowers the cost of premiums for the insured.
 
 How do insurers determine the price of premiums and the dollar amount that they will cover? Insurance is a realm largely of statistics - determining the likelihood of certain types of events occurring and how much that event may cost. These statistical analyses come from a wide variety of sources, and in the course, we will discuss how they have changed dramatically with the broader application of machine learning. Insurance has continued to evolve and is sometimes referred to as InsurTech when in the context of modern technologies.
-
 
 ### Reading: Investing in Real Estate
 

@@ -11,22 +11,17 @@ This module will introduce you to the concepts of value, money, and financial st
 By the end of this module, you will be able to:
 
 * Define value, as well as money, and how they differ from currency
-
 * Identify the major features of money
-
 * Identify the differences between commodity, representative, fiat, and crypto money
-
 * Identify the three major types of financial statements reported by public companies
 
 ### Reading: Money and Value
 
 To discuss the definition of money, we first need to define the concept of **value**, which is the perceived benefit derived from a good or service. For example, one may value apples for their intrinsic capacity as food. **Money** is a way in which we can measure value, and serves three main functions:
 
-  * Unit of account: Money can serve as a direct numerical measurement of value for a good or service, acting as a standard description of value.
-
-  * Medium of exchange: A useful form of money is accepted by a large number of participants in a market.
-
-  * Store of value: Money should "generally" be stable relative to most of the goods and services it is exchanged for.
+* Unit of account: Money can serve as a direct numerical measurement of value for a good or service, acting as a standard description of value.
+* Medium of exchange: A useful form of money is accepted by a large number of participants in a market.
+* Store of value: Money should "generally" be stable relative to most of the goods and services it is exchanged for.
 
 Money has had many forms throughout history, and we refer to physical money as currency. Some earlier forms include precious metals, gems, and seashells, which we refer to as commodity money. Later, we began to create money that represented discrete portions of those commodities which we call representative money.
 
@@ -36,11 +31,9 @@ Even more recently is the development of cryptocurrencies, which have exploded a
 
 Most currencies also have three other properties, which are not necessary, but useful:
 
-  - Fungibility: Each unit of currency is interchangeable
-
-  - Scarcity: The currency is not easy for everyone to create more of, as generating more currency can debase its value
-
-  - Portability: Currency should be easy to transport and exchange between parties.
+- Fungibility: Each unit of currency is interchangeable
+- Scarcity: The currency is not easy for everyone to create more of, as generating more currency can debase its value
+- Portability: Currency should be easy to transport and exchange between parties.
 
 ### Student Activity: Phone a Friend
 
@@ -68,7 +61,4 @@ The third and final statement, the **cash flow statement**, is used to understan
 
 See instructions in [activity file](Activities/02-Stu_Find_a_Statement/README.md)
 
-
 ---
-
-© 2020 Trilogy Education Services

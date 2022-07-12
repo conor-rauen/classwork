@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ASU-VIRT-FIN-PT-07-2022-U-LOLC
 
 =======
@@ -23,4 +22,3 @@ Write down your answers and keep them somewhere safe. In the future, we will loo
 ---
 
 © 2020 Trilogy Education Services
->>>>>>> 203e5772cc2eba4e16f9f5821ce56382d4f32706

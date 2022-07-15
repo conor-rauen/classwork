@@ -68,12 +68,10 @@ Depending on the stage of your project, or how detailed you want to go while wri
 If you want to learn more about writing awesome README files, you may want to go through the following websites:
 
 * [Awesome README.](https://github.com/matiassingers/awesome-readme) A curated list of awesome READMEs.
-
 * [Standard Readme.](https://github.com/RichardLitt/standard-readme) A standard style proposal for README files.
-
 * [Art of README.](https://github.com/noffle/art-of-readme). This article talks about the origins of README files and about what they do, why they are an absolute necessity, and how to craft them well.
-
 * [How to write a good README for your GitHub project?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) This article discusses good practices of writing README files and includes a few examples.
 
 ---
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

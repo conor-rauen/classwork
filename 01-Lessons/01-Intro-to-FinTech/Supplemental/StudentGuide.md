@@ -3,7 +3,6 @@
 ## Helpful Links
 
 * [Git/Github](https://github.com/Multishifties/No-Nonsense-Github-Project)
-
 * [Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 ---
@@ -92,4 +91,5 @@ As with most topics, there are numerous resources for gaining more information a
 </details>
 
 ---
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

@@ -19,25 +19,18 @@ As a general guide to writing a case study, you can use the "Narrative Arc" that
 ![The narrative arc](images/narrative_arc.png)
 
 * **Exposition:** This is the beginning of the story where the characters (stakeholders) are introduced; also, the central conflict that will propel the story.
-
 * **Rising Action:** In this stage, a series of events that complicate the situation for the protagonist (your customer) creates a rise in the story's suspense or tension.
-
 * **Climax:** This is the stage of most considerable suspense or tension in the story. The characters (stakeholders) are deeply involved in the conflict, and most of the time, the protagonist (your customer) had to make a critical decision that will guide his actions in the climax.
-
 * **Falling Action:** In this stage, there is a release of tension towards the conflict's resolution. In this state, you may describe how the protagonist (your customer) has changed as a result of facing the conflict. Usually, this part of the case study is where you highlight how your product, service, or professional experiences contribute to creating the path to the resolution.
-
 * **Resolution (aka Denouement):** This is the end of the story, typically a happy ending where the problems derived from the conflict are resolved by using your product, service, or professional experience. In the case of an interview case study exposure, the ending doesn't have to be a happy one, but a complete story with an interesting moral for avoiding conflict in the future.
 
 ## Additional Resources
 
 * [How to Write a Business Case Study](https://expresswriters.com/how-to-write-a-business-case-study/)
-
 * [How to Write a Convincing Case Study in 7 Steps](https://www.wordstream.com/blog/ws/2017/04/03/how-to-write-a-case-study)
-
 * [What is the Narrative Arc? A Guide to Storytelling Through Story Structure](https://blog.reedsy.com/narrative-arc)
-
 * [Writing a Case Study Analysis](https://writingcenter.ashford.edu/writing-case-study-analysis)
 
 ---
 
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
